@@ -1,0 +1,76 @@
+{
+  "img_background_hero":"https://lh3.googleusercontent.com/DvbzvTFUECS5j-Q0Tov0xB0Wttc0-8sF5ckJ9fyfH7y88kkTBh7_RzjxOp-UhFMUEc7qyBQ-afl5H51V2H9BhkLF",
+  "profile": {
+    "firstName": "Majedul",
+    "lastName": "Islam",
+    "img_avatar": "https://lh3.googleusercontent.com/f1TuIZX_Pju2DwnAial1K8EFi0J4dcmx3dYmWQfzrH8XFt4dY6LQ08M3IBz-xkmDL3zGVRrYmemmcEPG6edX3gI_Ww",
+    "positions": "Freelancer, UI/UX Designer, Web Developer, Web Designer"
+  },
+  "about_section": {
+    "title": "About Me",
+    "subtitle": "Main informations about me",
+    "freme_img": "https://lh3.googleusercontent.com/E4m04iHudGY3mAVZIloUaOWCDB49l10HF-aFDG28kx5g0nuXHIBfDZJrIxKWRoz85f_MrPpUyLh3v5mQhXWZK7TU",
+    "bio": {
+      "name": "Majedul Islam",
+      "description": "I am a Web Developer, and I'm very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration to concept and execution, but I find the most satisfaction in seeing the finished product do everything for you that it was created to do.",
+      "self_informations": {
+        "birthday": {
+          "visible": true,
+          "lable": "Birthday",
+          "date": "07.Apr.1996"
+        },
+        "age": {
+          "visible": true,
+          "lable": "Age",
+          "date": "24"
+        },
+        "city": {
+          "visible": true,
+          "lable": "City",
+          "city": "Khulna, Bangladesh"
+        },
+        "interest": {
+          "visible": true,
+          "lable": "Interests",
+          "interests": "Move, Tour, Hangout"
+        },
+        "study": {
+          "visible": true,
+          "lable": "Study",
+          "university": "Dhaka University"
+        },
+        "degree": {
+          "visible": true,
+          "lable": "Degree",
+          "degree": "Computer Science"
+        },
+        "website": {
+          "visible": true,
+          "lable": "Website",
+          "link": "www.majedul.portfolio.com"
+        },
+        "mail": {
+          "visible": true,
+          "lable": "Mail",
+          "link": "mazedul.contact@gmail.com"
+        },
+        "phone": {
+          "visible": true,
+          "lable": "Phone",
+          "number": "+8801643629820"
+        },
+        "twitter": {
+          "visible": true,
+          "lable": "Twitter",
+          "link": "@mytwitter"
+        }
+      }
+    }
+  },
+  "skill_section": {
+    "title": "Some About my Abilities",
+    "description": "I have very rare of skills but those are confident. I feel pretty comfortable with these technologies for development. I have passed a long time to learn web development with the most popular technologies such as MERN, you will find my best MERN stack projects if you look at my portfolio.",
+    "skills": "HTML:85,CSS:70,Javascript:95,Node JS:65,React:97"
+  }
+
+}
